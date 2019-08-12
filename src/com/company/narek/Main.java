@@ -21,7 +21,7 @@ public class Main {
 
         Printer();
 
-        
+
         while (true) {
             notificationCenter.NewNotificationAvailable();
 

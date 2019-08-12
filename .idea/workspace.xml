@@ -2,34 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc235e96-8cd1-45f7-a86f-18497730809f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Observer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Observer/com/company/narek/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Observer/com/company/narek/Observer/IObserver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Observer/com/company/narek/Subject/ISubject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Observer/com/company/narek/Subject/NotificationCenter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Observer/com/company/narek/Widget/CallsWidget.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Observer/com/company/narek/Widget/IWidget.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Observer/com/company/narek/Widget/MessengerWidget.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Observer/com/company/narek/Widget/Notification/INotification.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Observer/com/company/narek/Widget/Notification/Notification.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/narek/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/narek/Observer/IObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/narek/Subject/ISubject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/narek/Subject/NotificationCenter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/narek/Widget/CallsWidget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/narek/Widget/IWidget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/narek/Widget/MessengerWidget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/narek/Widget/Notification/INotification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/narek/Widget/Notification/Notification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/narek/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/narek/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/narek/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+            <state relative-caret-position="418">
+              <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1052#1053#0" expanded="true" />
@@ -239,15 +212,16 @@
       <option name="presentableId" value="Default" />
       <updated>1562265269077</updated>
       <workItem from="1562265272364" duration="9219000" />
-      <workItem from="1565576646713" duration="433000" />
+      <workItem from="1565576646713" duration="675000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9652000" />
+    <option name="totallyTimeSpent" value="9894000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -335,8 +309,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/narek/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        <state relative-caret-position="418">
+          <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1052#1053#0" expanded="true" />
